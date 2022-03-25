@@ -1,0 +1,10 @@
+<resources>
+    <string name="str_app_name">Movie Quiz!</string>
+    <string name="str_app_title">Movie Quiz</string>
+    <string name="str_welcome">ยินดีตอนรับ</string>
+    <string name="str_please_enter_your_name">ให้เราเรียกคุณว่าอะไร? ถ้าไม่บอกเราจะตั้งชื่อให้คุณ</string>
+    <string name="str_nick_name">ชื่อเล่น</string>
+    <string name="str_start">เริ่ม</string>
+    <string name="str_submit">ส่งคำตอบ</string>
+    <string name="str_next">ข้อต่อไป</string>
+</resources>
